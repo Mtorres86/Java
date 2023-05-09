@@ -8,7 +8,7 @@ public class Coche {
     Integer velocidad=0;
 
     //constructor
-    public Coche(String color, String modelo, String marca) {
+    public Coche() {
         this.color = color;
         this.modelo = modelo;
         this.marca = marca;
